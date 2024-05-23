@@ -11,4 +11,4 @@ Our website is built using the following technologies:
 
 
 
-![Petal Perfection Logo](image/background.png)
+![Petal Perfection Logo](images/background.png)
